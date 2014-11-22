@@ -7,5 +7,7 @@ public class Hello {
         System.out.println("Hello World!!");
         System.out.println("Added some change");
         System.out.println("Added some more change");
+
+        System.out.println("This line is added as a new feature");
     }
 }
